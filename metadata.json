@@ -1,0 +1,6 @@
+{
+  "name": "Kids Hub Connect",
+  "description": "Mobile-first school notification, morning roll call, homework digest, and USSD reminder app for primary schools in Hazyview and Shabalala, Mpumalanga.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
